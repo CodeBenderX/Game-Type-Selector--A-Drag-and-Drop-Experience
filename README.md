@@ -24,10 +24,10 @@ To run this project locally, follow these steps:
    git clone https://github.com/CodeBendeX/game-type-selector.git
 
 
-2. Navigate to the project directory:**
+2. Navigate to the project directory:
    cd game-type-selector
 
-3. Open `index.html` in your preferred web browser:**
+3. Open `index.html` in your preferred web browser:
    open index.html
 
 
