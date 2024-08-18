@@ -40,10 +40,11 @@ html, body {
     width: 90%;
     gap: 20px;
 }
-
+.boxwrap{
+    display: flex;
+}
 .drop-box {
     display: flex;
-    flex-direction: row;
     justify-content: center;
     align-items: center;
     position: relative;
