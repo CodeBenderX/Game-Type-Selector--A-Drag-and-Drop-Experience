@@ -1,4 +1,5 @@
-const draggablePicture = document.getElementById('draggablePicture');
+window.addEventListener('DOMContentLoaded', (event) => {
+    const draggablePicture = document.getElementById('draggablePicture');
 draggablePicture.draggable = true
 const dropBoxes = document.querySelectorAll('.drop-box');
 
@@ -47,4 +48,5 @@ window.addEventListener('load', function() {
     setTimeout(function() {
         welcomePopup.classList.add('hidden');
     }, 3500);
+});
 });
