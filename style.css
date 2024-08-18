@@ -43,6 +43,7 @@ html, body {
 
 .drop-box {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     position: relative;
